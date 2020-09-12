@@ -1,0 +1,31 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.chriscohran.taptapphoenix",
+      "developerName": "Team Phoenix",
+      "downloadURL": "https://github.com/tapphoenix/phoenix/releases/download/0.01a/Tap.Tap.Phoenix.ipa",
+      "iconURL": "https://taptapphoenix.com/img/screens/icon.jpg",
+      "localizedDescription": "Phoenix rising from the ashes.\n\nThe original Tap Tap Revenge games from Tapulous were some of the best on the AppStore. That is until Disney purchased Tapulous and shut it down in 2014 leaving us without a way of playing these games on modern devices.\n\nThat is until now. This is a complete remake of the original Tap Tap Revenge and includes all your favorite songs.",
+      "name": "Tap Tap Phoenix",
+      "screenshotURLs": [
+        "https://taptapphoenix.com/img/screens/01.jpg",
+        "https://taptapphoenix.com/img/screens/02.jpg",
+        "https://taptapphoenix.com/img/screens/03.jpg",
+        "https://taptapphoenix.com/img/screens/04.jpg"
+      ],
+      "size": 2672000,
+      "subtitle": "The original Tap Tap Revenge reborn for modern devices.",
+      "tintColor": "018084",
+      "version": "1.00",
+      "versionDate": "2020-09-12T14:00:00-07:00",
+      "versionDescription": "Initial release"
+    }
+  ],
+  "identifier": "com.teamphoenix.taptapphoenix",
+  "name": "Team Phoenix",
+  "news": [
+    "Tap Tap Phoenix is now available!"
+  ],
+  "userInfo": {}
+}
