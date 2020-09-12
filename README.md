@@ -8,13 +8,13 @@ We're currently working on a new rhythm game for iOS that will be listed in the 
 Make sure you have AltStore installed on your device and AltSever on your computer. For instructions on how to install AltStore, visit [AltStore.io](https://altstore.io). There's two ways to install through AltStore depending on which version you have. Following the guide below for your correct version.
 
 - **BETA VERSION**
-  - Add the repo to your sources
+  - Add the [repo](https://raw.githubusercontent.com/tapphoenix/taptapphoenix/master/repo.json) to your sources
   - Search Tap Tap Phoenix
   - Tap "Install"
   
 - **STABLE VERSION**
-  - Tap here to visit the Releases page on your device
-  - Tap "taptapphoenix.ipa" and then "Save to Files"
+  - Tap here to visit the [Releases page](https://github.com/tapphoenix/taptapphoenix/releases) on your device
+  - Tap "[TapTapThoenix_1.00.ipa](https://github.com/tapphoenix/taptapphoenix/releases/download/v1.00/TapTapPhoenix_1.00.ipa)" and then "Save to Files"
   - Open Files app on your iPhone and find the IPA file you just downloaded
   - Tap on the file and then open with AltStore (you may have to scroll to the right and click "More" for AltStore to appear)
   
