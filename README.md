@@ -14,7 +14,7 @@ Make sure you have AltStore installed on your device and AltSever on your comput
   
 - **STABLE VERSION**
   - Tap here to visit the [Releases page](https://github.com/tapphoenix/taptapphoenix/releases) on your device
-  - Tap "[TapTapThoenix_1.00.ipa](https://github.com/tapphoenix/taptapphoenix/releases/download/v1.00/TapTapPhoenix_1.00.ipa)" and then "Save to Files"
+  - Tap "[TapTapThoenix_1.00.ipa](https://github.com/tapphoenix/taptapphoenix/releases/download/v1.00/TapTapPhoenix_1.00.ipa)" and then "Download"
   - Open Files app on your iPhone and find the IPA file you just downloaded
   - Tap on the file and then open with AltStore (you may have to scroll to the right and click "More" for AltStore to appear)
   
