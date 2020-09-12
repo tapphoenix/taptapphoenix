@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "beta": true,
+      "beta": false,
       "bundleIdentifier": "com.chriscohran.taptapphoenix",
       "developerName": "Team Phoenix",
       "downloadURL": "https://github.com/tapphoenix/phoenix/releases/download/0.01a/Tap.Tap.Phoenix.ipa",
@@ -21,9 +21,5 @@
       "versionDate": "2020-09-12T14:00:00-07:00",
       "versionDescription": "Initial release"
     }
-  ],
-  "identifier": "com.example.source",
-  "name": "Source Name",
-  "news": [],
-  "userInfo": {}
+  ]
 }
