@@ -4,7 +4,7 @@ Tap Tap Revenge remake compatible with AltStore for iOS
 #### We're working on a new rhythm game for iOS
 We're currently working on a new rhythm game for iOS that will be listed in the AltStore. To help with this, we've set up a [Ko-fi](https://ko-fi.com/taptapphoenix) page where you can donate to support development (or just show your appreciation for Tap Tap Phoenix). Of course you're not required to donate to download Tap Tap Phoenix but any support would be greatly appreciated! 
 
-# How to Downloaad
+# How to Download
 Make sure you have AltStore installed on your device and AltSever on your computer. For instructions on how to install AltStore, visit [AltStore.io](https://altstore.io). There's two ways to install through AltStore depending on which version you have. Follow the steps below for your correct version.
 
 - **BETA VERSION**
